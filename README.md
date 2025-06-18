@@ -29,7 +29,6 @@
 ## 📊 GitHub Stats
 Mohammed-AsrarAhmed
 
-![](https://github-readme-stats.vercel.app/api?username=Mohammed-AsrarAhmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-AsrarAhmed&theme=dark&hide_border=false)  
 
@@ -55,7 +54,6 @@ Mohammed-AsrarAhmed
 ## 📈 Visitor Count
 
 [![](https://visitcount.itsvg.in/api?id=Mohammed-AsrarAhmed&icon=2&color=0)](https://visitcount.itsvg.in)
-
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
