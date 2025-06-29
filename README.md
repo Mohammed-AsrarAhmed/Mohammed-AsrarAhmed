@@ -50,10 +50,8 @@ Mohammed-AsrarAhmed
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
 ## 📈 Visitor Count
 
-[![](https://visitcount.itsvg.in/api?id=Mohammed-AsrarAhmed&icon=2&color=0)](https://visitcount.itsvg.in)
----
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mohammed-AsrarAhmed/MovieLens-trailer-and-movie-website&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
