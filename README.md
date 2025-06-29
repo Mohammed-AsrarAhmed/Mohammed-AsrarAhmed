@@ -52,6 +52,7 @@ Mohammed-AsrarAhmed
 ---
 ## 📈 Visitor Count
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mohammed-AsrarAhmed/MovieLens-trailer-and-movie-website&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mohammed-AsrarAhmed&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false" style="visibility:hidden;" />
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
